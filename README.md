@@ -4,7 +4,8 @@ Granted, this drawing is boring and the zombie ipsum is visibly distracting, but
 
 [I used Chris Coyier's Codepen](https://codepen.io/chriscoyier/pen/YXgWam?editors=0111)
 
-[as well as Jake Archibald's post](https://jakearchibald.com/2013/animated-line-drawing-svg/)
+[As well as Jake Archibald's post](https://jakearchibald.com/2013/animated-line-drawing-svg/)
+
 as references for the scroll animation
 
 [For the svg drawing I followed Ilya Zayats article for a dynamically generated svg graph for an example to apply the animation to.](https://www.smashingmagazine.com/2015/12/generating-svg-with-react/)
