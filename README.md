@@ -12,6 +12,7 @@ as references for the scroll animation
 
 To run you must have React:
 1. `npm install -g create-react-app`
-2. Clone the repo
-3. `npm install`
-4. `npm start`
+
+Clone the repo
+1. `npm install`
+2. `npm start`
