@@ -1,5 +1,5 @@
 import React from 'react';
-import Axis from './axis';
+// import Axis from './axis';
 import GraphBody from './graph_body';
 import './App.css'
 
